@@ -12,18 +12,6 @@
     "phone": "(294) 840-6685"
   },
   {
-    "id": "3",
-    "name": "Kennedy Lane",
-    "email": "mattis.Cras@nonenimMauris.net",
-    "phone": "(542) 451-7038"
-  },
-  {
-    "id": "4",
-    "name": "Wylie Pope",
-    "email": "est@utquamvel.net",
-    "phone": "(692) 802-2949"
-  },
-  {
     "id": "5",
     "name": "Cyrus Jackson",
     "email": "nibh@semsempererat.com",
@@ -36,27 +24,39 @@
     "phone": "(186) 568-3720"
   },
   {
-    "id": "7",
-    "name": "Reuben Henry",
-    "email": "pharetra.ut@dictum.co.uk",
-    "phone": "(715) 598-5792"
-  },
-  {
     "id": "8",
     "name": "Simon Morton",
     "email": "dui.Fusce.diam@Donec.com",
     "phone": "(233) 738-2360"
   },
   {
-    "id": "9",
-    "name": "Thomas Lucas",
-    "email": "nec@Nulla.com",
-    "phone": "(704) 398-7993"
+    "id": "b6f6719c-ef64-4d47-840a-fd342a50d15e",
+    "name": "Liza",
+    "email": "asd@uuid.ua",
+    "phone": "097-123-123"
   },
   {
-    "id": "10",
-    "name": "Alec Howard",
-    "email": "Donec.elementum@scelerisquescelerisquedui.net",
-    "phone": "(748) 206-2688"
+    "id": "1f48bcc4-ce74-4b27-9be9-a40bf1e2a6f5",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  },
+  {
+    "id": "71ae5f52-c190-41d0-b79f-287aa4cb42a2",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  },
+  {
+    "id": "56dbf423-d560-411a-bfb8-3834593dc186",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  },
+  {
+    "id": "4eb71d61-8c3b-4b38-b8e2-fbd2b9c57524",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-33"
   }
 ]
